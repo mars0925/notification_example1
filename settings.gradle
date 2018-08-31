@@ -1,1 +1,1 @@
-include ':app', ':notificationsample2'
+include ':app', ':notificationsample2', ':notificationsample3'
